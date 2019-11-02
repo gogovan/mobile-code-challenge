@@ -20,6 +20,8 @@ It should not take you more than 8 hours.
 
 Summit your work via emailing us to [our code test email](mailto:code.test.engineering@gogo.tech)
 
+Please summit you work with both of you executable and source code.
+
 We will discuss the work based on:  
 1. UI Design implementation.
 2. System Design.
