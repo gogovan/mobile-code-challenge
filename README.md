@@ -18,7 +18,7 @@ If no, you can start coding! Feel free to use any tools you think is necessary.
 
 It should not take you more than 8 hours.
 
-Summit your work via emailing us to [our code test email](mailto:code.test.engineering@gogo.tech). In your email, you must included both of the executable and source code of your work.
+Submit your work via emailing us to [our code test email](mailto:code.test.engineering@gogo.tech). In your email, you must included both of the executable and source code of your work.
 
 We will discuss the work based on:  
 1. UI Design implementation.
